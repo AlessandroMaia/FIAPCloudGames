@@ -16,8 +16,8 @@
 
 <div align="center">
 
-[![English (US)](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/32/United-States.png)](./docs/README.en-US.md)
-[![Português (BR)](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/32/Brazil.png)](../README.md)
+[![English (US)](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/32/United-States.png)](./README.en.md)
+[![Português (BR)](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/32/Brazil.png)](./README.md)
 
 </div>
 
