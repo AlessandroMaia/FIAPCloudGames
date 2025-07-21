@@ -1,4 +1,4 @@
-w<h1 align="center">
+<h1 align="center">
   <img src="images/logo.png" alt="FCG" />
 </h1>
 
@@ -16,19 +16,19 @@ w<h1 align="center">
 
 <div align="center">
 
-[![English (US)](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/32/United-States.png)](README.en.md)
-[![Português (BR)](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/32/Brazil.png)](README.md)
+[![English (US)](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/32/United-States.png)](./docs/README.en-US.md)
+[![Português (BR)](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/32/Brazil.png)](../README.md)
 
 </div>
 
 <div align="center">
 
-[Objetivos](#-objetivos)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-[Tecnologias](#-tecnologias)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+[Goals](#-goals)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+[Technologies](#-technologies)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 [Endpoints](#-endpoints)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-[Como Usar](#-como-usar)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-[Autenticação](#-autenticação)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-[Exemplos](#-exemplos)
+[How to Use](#-how-to-use)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+[Authentication](#-authentication)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+[Examples](#-examples)
 
 </div>
 
